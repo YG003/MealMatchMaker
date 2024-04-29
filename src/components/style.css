@@ -1,0 +1,21 @@
+.custom-scrollbar {
+    overflow-y: auto;
+    scrollbar-width: thin; /* "auto" | "thin" | "none" */
+    scrollbar-color: red green; /* thumb | track */
+  }
+  
+  /* Track */
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+  
+  /* Handle */
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  
