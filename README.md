@@ -2,8 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, to run:
-cd into mealmatchmaker- npm start
+In the project directory, to run: \
+ 
+cd into mealmatchmaker- npm start \
 cd into mealmatchmakerr- python manage.py runsever
 
 ### `npm start`
